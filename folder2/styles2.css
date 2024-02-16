@@ -1,0 +1,16 @@
+:root {
+  --background: rgb(255, 180, 180);
+  --btn-background: rgb(65, 65, 214);
+
+  --heading-1: "46px";
+  --paragraph-text: "24px";
+}
+
+.blue-button {
+  color: #f7f1f1;
+  background-color: var(--btn-background);
+}
+
+body {
+  background: var(--background);
+}
